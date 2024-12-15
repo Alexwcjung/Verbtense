@@ -1,3 +1,4 @@
+!pip install gradio
 #@markdown APP2: Verb tense checking
 import gradio as gr
 import pandas as pd
